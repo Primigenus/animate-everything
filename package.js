@@ -1,7 +1,8 @@
 Package.describe({
   name: 'rahul:animate-everything',
   summary: "Patch the hot code reload CSS live injection feature to transition all CSS changes.",
-  version: "1.0.0"
+  version: "1.0.1",
+  git: "https://github.com/Primigenus/animate-everything"
 });
 
 Package.onUse(function(api) {
